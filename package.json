@@ -1,0 +1,17 @@
+{
+  "name": "myresolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-addons-css-transition-group": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "react-mounter": "^1.2.0"
+  }
+}
